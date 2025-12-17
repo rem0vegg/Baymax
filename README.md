@@ -16,3 +16,6 @@
   {"age_month":54,"height_cm":105.4,"weight_kg":16.5},
   {"age_month":60,"height_cm":109.6,"weight_kg":17.8}
 ]
+
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/f5ce5fee-1f16-4664-9dd8-42ffe384e3ff" />
+
