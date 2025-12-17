@@ -1,8 +1,9 @@
 # Baymax
 
-1. py main.py
-2. buka index.html
-3. masukin data pake format
+1. Pastiin udah pip install semua requirements di main.py
+2. Jalanin py main.py
+3. Buka index.html (klik 2x aja di directory)
+4. Masukin data pake format
 
 [
   {"age_month":12,"height_cm":72.8,"weight_kg":8.6},
